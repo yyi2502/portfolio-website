@@ -123,7 +123,9 @@ export default function Content() {
                 </a>
                 <br />
                 <span className="text-xs">
-                  (テスト用ログインアドレス&PW：test@test.com)
+                  デモページログインアドレス：test@test.com
+                  <br />
+                  パスワード：test@test.com
                 </span>
               </p>
             </motion.div>
